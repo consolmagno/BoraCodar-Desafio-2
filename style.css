@@ -56,6 +56,10 @@ p{
   text-transform: uppercase;
 }
 
+.hide{
+  display: none;
+}
+
 .text{
   display: grid;
   gap: 12px;
